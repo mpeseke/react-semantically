@@ -1,0 +1,7 @@
+.badButton { 
+    height: 100px; 
+    width: 300px;
+    background-color: red;
+    font-weight: bold;  
+    color: black;
+}

@@ -1,0 +1,7 @@
+.greatButton {
+    height: 100px; 
+    width: 300px;
+    background-color: green;
+    font-weight: bold;  
+    color: white;
+}
